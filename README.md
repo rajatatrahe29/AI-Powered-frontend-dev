@@ -86,5 +86,5 @@ npm start
 
 ## 📄 Contact & Profiles
 - **LinkedIn**: [linkedin.com/in/iamrajatatrahe](https://linkedin.com/in/iamrajatatrahe)
-- **GitHub**: [github.com/rajatatrahe](https://github.com/rajatatrahe)
+- **GitHub**: [github.com/rajatatrahe](https://github.com/rajatatrahe29)
 - **Email**: atraherajat@gmail.com
